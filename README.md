@@ -1,3 +1,10 @@
+| Atribut         | Keterangan            |
+| --------------- | --------------------- |
+| **Nama**        | Delfyno Dwi Prastyo   |
+| **NIM**         | 312310480        |
+| **Kelas**       | TI.23.A.5             |
+| **Mata Kuliah** | Pemrograman Website 2 |
+
 # 📖 Daftar Isi  
 * 1️⃣ [**Praktikum 1**](#-laporan-praktikum-1---pemrograman-web-2) - instalasi & setup code igniter 
 * 2️⃣ [**Praktikum 2**](#-laporan-praktikum-2---pemrograman-web-2) - Membuat CRUD  
